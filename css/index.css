@@ -1,0 +1,12 @@
+body{
+    background:url(../img/degrade.png);
+    background-size: cover;
+}
+.logear{
+    text-decoration: none;
+    color: #861CCB;
+
+}
+.copi{
+    margin-top:-20px;
+}

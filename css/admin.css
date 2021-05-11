@@ -1,0 +1,12 @@
+.navbar{
+    background:url(../img/degrade.png);
+    background-size: cover;
+    height:50px;
+}
+.botones_tendero{
+    background-color: white;
+    color: black;
+    border: none;
+
+}
+

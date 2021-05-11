@@ -1,0 +1,18 @@
+.cuerpo {
+    background-image:url(../img/degrade.png);
+    
+}
+.card{
+
+    margin-top: 10%;
+    width: 100%;
+    max-width: 300px;
+}
+.home{  
+    margin-top:10px;
+    margin-left:10px  ;
+}
+#visual{
+    margin-top:0px;
+    margin-bottom:-740px;
+}
